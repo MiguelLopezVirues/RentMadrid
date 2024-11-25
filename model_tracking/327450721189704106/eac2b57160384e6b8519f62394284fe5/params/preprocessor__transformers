@@ -1,1 +1,0 @@
-[('power_transform', PowerTransformer(), ['distance']), ('scaler', RobustScaler(), slice(0, None, None))]

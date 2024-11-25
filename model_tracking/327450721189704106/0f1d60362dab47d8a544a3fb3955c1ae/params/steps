@@ -1,2 +1,0 @@
-[('transformer', ColumnTransformer(remainder='passthrough',
-                  transformers=[('target', TargetEncoder(), ['floor_grouped'])])), ('regressor', GradientBoostingRegressor())]

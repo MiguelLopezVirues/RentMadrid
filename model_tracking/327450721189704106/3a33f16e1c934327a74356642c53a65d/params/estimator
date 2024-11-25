@@ -1,1 +1,0 @@
-Pipeline(steps=[('scaler', RobustScaler()), ('regressor', LinearRegression())])

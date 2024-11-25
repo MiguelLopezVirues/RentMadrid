@@ -1,1 +1,0 @@
-[('one_hot', OneHotEncoder(drop='first', sparse_output=False), ['exterior', 'bathrooms', 'municipality_grouped']), ('target', TargetEncoder(), ['rooms', 'floor_grouped'])]

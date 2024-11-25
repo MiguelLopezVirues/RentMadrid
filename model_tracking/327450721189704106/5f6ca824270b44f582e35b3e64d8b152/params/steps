@@ -1,5 +1,0 @@
-[('preprocessor', ColumnTransformer(transformers=[('power_transform', PowerTransformer(),
-                                 ['distance']),
-                                ('scaler', RobustScaler(),
-                                 slice(0, None, None))])), ('regressor', GradientBoostingRegressor(learning_rate=0.05, max_depth=5, min_samples_leaf=5,
-                          min_samples_split=10, n_estimators=50, subsample=0.8))]

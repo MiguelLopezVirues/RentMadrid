@@ -1,9 +1,0 @@
-Pipeline(steps=[('transformer',
-                 ColumnTransformer(remainder='passthrough',
-                                   transformers=[('one_hot',
-                                                  OneHotEncoder(drop='first',
-                                                                sparse_output=False),
-                                                  ['exterior', 'bathrooms']),
-                                                 ('target', TargetEncoder(),
-                                                  ['roomsfloor_grouped'])])),
-                ('regressor', GradientBoostingRegressor())])

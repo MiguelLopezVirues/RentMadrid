@@ -1,9 +1,0 @@
-digest: 468c5d15
-name: dataset
-profile: '{"num_rows": 85, "num_elements": 255}'
-schema: '{"mlflow_colspec": [{"type": "double", "name": "reciprocal_size", "required":
-  true}, {"type": "long", "name": "distance", "required": true}, {"type": "boolean",
-  "name": "exterior", "required": true}]}'
-source: '{"tags": {"mlflow.user": "Miguel", "mlflow.source.name": "c:\\Users\\Miguel\\.virtualenvs\\7._Rent_Madrid-EgbqKllV\\Lib\\site-packages\\ipykernel_launcher.py",
-  "mlflow.source.type": "LOCAL"}}'
-source_type: code

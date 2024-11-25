@@ -1,1 +1,0 @@
-{'regressor__learning_rate': [0.04], 'regressor__max_depth': [8], 'regressor__min_samples_leaf': [5], 'regressor__min_samples_split': [50], 'regressor__n_estimators': [70], 'regressor__subsample': [0.9]}
