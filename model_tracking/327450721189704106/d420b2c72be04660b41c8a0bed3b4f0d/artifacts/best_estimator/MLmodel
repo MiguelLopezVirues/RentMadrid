@@ -1,0 +1,25 @@
+artifact_path: best_estimator
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.18.0
+model_size_bytes: 1255
+model_uuid: 05b61f0e86b54b9f90bd35db7eb1b65c
+run_id: d420b2c72be04660b41c8a0bed3b4f0d
+signature:
+  inputs: '[{"type": "double", "name": "reciprocal_size", "required": true}, {"type":
+    "long", "name": "distance", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-11-25 08:00:35.803715'

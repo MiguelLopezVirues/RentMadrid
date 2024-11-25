@@ -1,0 +1,2 @@
+RandomForestRegressor(max_depth=20, min_samples_leaf=5, min_samples_split=15,
+                      n_estimators=150)

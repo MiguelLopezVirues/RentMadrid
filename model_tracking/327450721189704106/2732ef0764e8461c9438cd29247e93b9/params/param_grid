@@ -1,0 +1,1 @@
+{'regressor__n_estimators': [25, 30, 40, 50, 60, 70], 'regressor__learning_rate': [0.03, 0.04, 0.1], 'regressor__max_depth': [6, 7, 8], 'regressor__min_samples_split': [30, 40, 50], 'regressor__min_samples_leaf': [3, 5, 10], 'regressor__subsample': [0.7, 0.8, 0.9]}

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Miguel/Desktop/Hackio/Proyectos/7. Rent Madrid/notebooks/../model_tracking/327450721189704106/97da75b0e7344b5b9e09f8a63c8b1aa6/artifacts
+end_time: 1732523999553
+entry_point_name: ''
+experiment_id: '327450721189704106'
+lifecycle_stage: active
+run_id: 97da75b0e7344b5b9e09f8a63c8b1aa6
+run_name: GridSearch_CV_RandomForest
+run_uuid: 97da75b0e7344b5b9e09f8a63c8b1aa6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732523682845
+status: 3
+tags: []
+user_id: Miguel

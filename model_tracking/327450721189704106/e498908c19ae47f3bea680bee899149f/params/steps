@@ -1,0 +1,1 @@
+[('scaler', RobustScaler()), ('regressor', Lasso(alpha=0.0001, max_iter=10000))]

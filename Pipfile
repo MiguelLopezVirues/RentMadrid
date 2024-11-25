@@ -21,6 +21,7 @@ pingouin = "*"
 plotly-express = "*"
 category-encoders = "*"
 streamlit = "*"
+imblearn = "*"
 
 [dev-packages]
 

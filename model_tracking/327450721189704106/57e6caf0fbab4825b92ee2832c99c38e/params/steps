@@ -1,0 +1,10 @@
+[('transformer', ColumnTransformer(remainder='passthrough',
+                  transformers=[('one_hot',
+                                 OneHotEncoder(drop='first',
+                                               sparse_output=False),
+                                 ['p_area_property_grouped', 'exterior',
+                                  'bathrooms', 'hasPlan']),
+                                ('target', TargetEncoder(),
+                                 ['rooms', 'parkingSpace_included_in_listing',
+                                  'floor_grouped'])])), ('regressor', GradientBoostingRegressor(max_depth=8, min_samples_leaf=3, min_samples_split=50,
+                          n_estimators=30, subsample=0.7))]

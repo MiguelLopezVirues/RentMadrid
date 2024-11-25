@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Miguel/Desktop/Hackio/Proyectos/7. Rent Madrid/notebooks/../model_tracking/327450721189704106/db501252c4e644a7aec9ae3c1aa6314f/artifacts
+end_time: 1732521644068
+entry_point_name: ''
+experiment_id: '327450721189704106'
+lifecycle_stage: active
+run_id: db501252c4e644a7aec9ae3c1aa6314f
+run_name: dapper-quail-975
+run_uuid: db501252c4e644a7aec9ae3c1aa6314f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732521625077
+status: 3
+tags: []
+user_id: Miguel
