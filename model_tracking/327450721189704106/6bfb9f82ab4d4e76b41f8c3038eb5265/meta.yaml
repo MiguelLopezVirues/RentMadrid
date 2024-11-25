@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Miguel/Desktop/Hackio/Proyectos/7. Rent Madrid/notebooks/../model_tracking/327450721189704106/6bfb9f82ab4d4e76b41f8c3038eb5265/artifacts
+end_time: 1732465547030
+entry_point_name: ''
+experiment_id: '327450721189704106'
+lifecycle_stage: active
+run_id: 6bfb9f82ab4d4e76b41f8c3038eb5265
+run_name: popular-shrimp-863
+run_uuid: 6bfb9f82ab4d4e76b41f8c3038eb5265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732465532465
+status: 3
+tags: []
+user_id: Miguel

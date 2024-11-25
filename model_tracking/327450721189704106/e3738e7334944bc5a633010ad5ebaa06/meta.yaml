@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Miguel/Desktop/Hackio/Proyectos/7. Rent Madrid/notebooks/../model_tracking/327450721189704106/e3738e7334944bc5a633010ad5ebaa06/artifacts
+end_time: 1732467555412
+entry_point_name: ''
+experiment_id: '327450721189704106'
+lifecycle_stage: active
+run_id: e3738e7334944bc5a633010ad5ebaa06
+run_name: resilient-hog-194
+run_uuid: e3738e7334944bc5a633010ad5ebaa06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732467547183
+status: 3
+tags: []
+user_id: Miguel

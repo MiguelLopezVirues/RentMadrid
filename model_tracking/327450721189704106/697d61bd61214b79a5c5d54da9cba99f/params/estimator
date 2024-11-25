@@ -1,0 +1,2 @@
+Pipeline(steps=[('scaler', RobustScaler()),
+                ('regressor', RandomForestRegressor())])

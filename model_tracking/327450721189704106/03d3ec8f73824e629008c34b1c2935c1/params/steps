@@ -1,0 +1,10 @@
+[('transformer', ColumnTransformer(remainder='passthrough',
+                  transformers=[('one_hot',
+                                 OneHotEncoder(drop='first',
+                                               sparse_output=False),
+                                 ['p_area_property_grouped', 'exterior',
+                                  'bathrooms', 'hasPlan',
+                                  'municipality_grouped']),
+                                ('target', TargetEncoder(),
+                                 ['rooms', 'parkingSpace_included_in_listing',
+                                  'floor_grouped'])])), ('scaler', RobustScaler()), ('regressor', Lasso(max_iter=10000))]

@@ -1,0 +1,8 @@
+digest: 5bf523c2
+name: dataset
+profile: '{"num_rows": 252, "num_elements": 504}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "numPhotos", "required": true},
+  {"type": "double", "name": "reciprocal_size", "required": true}]}'
+source: '{"tags": {"mlflow.user": "Miguel", "mlflow.source.name": "c:\\Users\\Miguel\\.virtualenvs\\7._Rent_Madrid-EgbqKllV\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

@@ -71,7 +71,7 @@ class Visualizador:
         - pandas.DataFrame: DataFrame con variables numéricas.
         - pandas.DataFrame: DataFrame con variables categóricas.
         """
-        return self.dataframe.select_dtypes(include=np.number), self.dataframe.select_dtypes(include=["O","category"])
+        return self.dataframe.select_dtypes(include=np.number), self.dataframe.select_dtypes(include=["O","category",bool])
     
     def plot_numericas(self, color="grey", tamano_grafica=(15, 5)):
         """
@@ -107,7 +107,7 @@ class Visualizador:
             axes[indice].set_title(columna)
             axes[indice].set(xlabel=None)
 
-        plt.tight_layout(pad=0.005)
+        plt.tight_layout()
 
         plt.suptitle("Distribución de variables categóricas", y=1.02, fontsize=16)
 
@@ -147,12 +147,12 @@ class Visualizador:
                     ax.set_title(columna)
                     ax.set(xlabel=None)
                 else:
-                    sns.barplot(x=columna, y=vr, data=self.dataframe, ax=ax, color=color)
+                    sns.barplot(x=columna, y=vr, data=self.dataframe, ax=ax, color=color, estimator="median")
                     ax.tick_params(rotation=90)
                     ax.set_title(columna)
                     ax.set(xlabel=None)
-
-        plt.tight_layout()
+        
+        plt.subplots_adjust(hspace=0.6)
     
     def analisis_temporal(self, var_respuesta, var_temporal, color = "black", order = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]):
 

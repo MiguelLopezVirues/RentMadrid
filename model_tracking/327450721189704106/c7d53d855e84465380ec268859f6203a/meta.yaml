@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Miguel/Desktop/Hackio/Proyectos/7. Rent Madrid/notebooks/../model_tracking/327450721189704106/c7d53d855e84465380ec268859f6203a/artifacts
+end_time: 1732455860130
+entry_point_name: ''
+experiment_id: '327450721189704106'
+lifecycle_stage: active
+run_id: c7d53d855e84465380ec268859f6203a
+run_name: Test evaluation - priceByArea - numerical - test_evaluation
+run_uuid: c7d53d855e84465380ec268859f6203a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732455851635
+status: 3
+tags: []
+user_id: Miguel

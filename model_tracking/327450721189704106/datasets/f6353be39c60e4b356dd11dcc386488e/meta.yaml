@@ -1,0 +1,13 @@
+digest: 7447e9c9
+name: dataset
+profile: '{"num_rows": 120, "num_elements": 1080}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "size", "required": true},
+  {"type": "long", "name": "distance", "required": true}, {"type": "long", "name":
+  "bathrooms", "required": true}, {"type": "boolean", "name": "exterior", "required":
+  true}, {"type": "boolean", "name": "parkingSpace_included_in_listing", "required":
+  true}, {"type": "long", "name": "rooms", "required": true}, {"type": "string", "name":
+  "floor_grouped", "required": true}, {"type": "string", "name": "p_area_property_grouped",
+  "required": true}, {"type": "boolean", "name": "hasPlan", "required": true}]}'
+source: '{"tags": {"mlflow.user": "Miguel", "mlflow.source.name": "c:\\Users\\Miguel\\.virtualenvs\\7._Rent_Madrid-EgbqKllV\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

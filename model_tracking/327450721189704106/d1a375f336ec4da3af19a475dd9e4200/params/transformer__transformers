@@ -1,0 +1,1 @@
+[('one_hot', OneHotEncoder(drop='first', sparse_output=False), ['p_area_property_grouped', 'exterior', 'bathrooms', 'hasPlan', 'rooms', 'parkingSpace_included_in_listing', 'floor_grouped'])]

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Miguel/Desktop/Hackio/Proyectos/7. Rent Madrid/notebooks/../model_tracking/327450721189704106/149ca35724ef41ed9f2a39c3a01785d7/artifacts
+end_time: 1732455251345
+entry_point_name: ''
+experiment_id: '327450721189704106'
+lifecycle_stage: active
+run_id: 149ca35724ef41ed9f2a39c3a01785d7
+run_name: resilient-hawk-799
+run_uuid: 149ca35724ef41ed9f2a39c3a01785d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732455229274
+status: 3
+tags: []
+user_id: Miguel

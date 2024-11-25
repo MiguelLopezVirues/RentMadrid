@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Miguel/Desktop/Hackio/Proyectos/7. Rent Madrid/notebooks/../model_tracking/327450721189704106/9a0d7ddac147466b82f94cf03eae5cdc/artifacts
+deleted_time: 1732455732339
+end_time: 1732451976043
+entry_point_name: ''
+experiment_id: '327450721189704106'
+lifecycle_stage: deleted
+run_id: 9a0d7ddac147466b82f94cf03eae5cdc
+run_name: sedate-bee-482
+run_uuid: 9a0d7ddac147466b82f94cf03eae5cdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732451965522
+status: 3
+tags: []
+user_id: Miguel

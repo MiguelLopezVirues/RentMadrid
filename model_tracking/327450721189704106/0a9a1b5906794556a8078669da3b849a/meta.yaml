@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Miguel/Desktop/Hackio/Proyectos/7. Rent Madrid/notebooks/../model_tracking/327450721189704106/0a9a1b5906794556a8078669da3b849a/artifacts
+end_time: 1732465167103
+entry_point_name: ''
+experiment_id: '327450721189704106'
+lifecycle_stage: active
+run_id: 0a9a1b5906794556a8078669da3b849a
+run_name: receptive-stag-481
+run_uuid: 0a9a1b5906794556a8078669da3b849a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732465155185
+status: 3
+tags: []
+user_id: Miguel

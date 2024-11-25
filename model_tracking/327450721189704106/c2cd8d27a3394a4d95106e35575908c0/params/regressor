@@ -1,0 +1,2 @@
+GradientBoostingRegressor(learning_rate=0.04, max_depth=8, min_samples_leaf=5,
+                          min_samples_split=50, n_estimators=70, subsample=0.9)

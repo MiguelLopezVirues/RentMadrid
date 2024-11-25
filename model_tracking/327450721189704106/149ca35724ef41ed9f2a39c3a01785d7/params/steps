@@ -1,0 +1,1 @@
+[('regressor', Lasso(max_iter=10000))]

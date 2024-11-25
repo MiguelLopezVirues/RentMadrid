@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Miguel/Desktop/Hackio/Proyectos/7. Rent Madrid/notebooks/../model_tracking/327450721189704106/b3cc9f9a51384b1fa83c221c94896ddb/artifacts
+deleted_time: 1732455732317
+end_time: 1732451989676
+entry_point_name: ''
+experiment_id: '327450721189704106'
+lifecycle_stage: deleted
+run_id: b3cc9f9a51384b1fa83c221c94896ddb
+run_name: burly-koi-534
+run_uuid: b3cc9f9a51384b1fa83c221c94896ddb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732451976371
+status: 3
+tags: []
+user_id: Miguel

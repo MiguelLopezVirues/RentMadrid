@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Miguel/Desktop/Hackio/Proyectos/7. Rent Madrid/notebooks/../model_tracking/327450721189704106/f4d172b1172d4913ac9b597c27a390d4/artifacts
+end_time: 1732470513168
+entry_point_name: ''
+experiment_id: '327450721189704106'
+lifecycle_stage: active
+run_id: f4d172b1172d4913ac9b597c27a390d4
+run_name: clean-finch-524
+run_uuid: f4d172b1172d4913ac9b597c27a390d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732470495424
+status: 3
+tags: []
+user_id: Miguel

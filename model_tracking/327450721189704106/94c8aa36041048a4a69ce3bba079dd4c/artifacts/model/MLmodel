@@ -1,0 +1,25 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.18.0
+model_size_bytes: 1527487
+model_uuid: 93b037b3c4c84cfe8aaa4ba67b179e3e
+run_id: 94c8aa36041048a4a69ce3bba079dd4c
+signature:
+  inputs: '[{"type": "double", "name": "reciprocal_size", "required": true}, {"type":
+    "long", "name": "distance", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-11-24 13:36:04.643915'

@@ -1,0 +1,338 @@
+,numPhotos,price,propertyType,size,exterior,rooms,bathrooms,distance,priceByArea,hasPlan,has360,hasVideo,hasLift,parkingSpace_included_in_listing,floor_grouped,municipality_grouped,p_area_property_grouped
+1,12,750.0,flat,60.0,True,1,1,7037,12.5,False,False,False,True,False,3.0,Madrid,flat or other
+2,21,750.0,flat,70.0,True,2,1,16145,10.714285714285714,True,False,True,False,False,0.0,Other,flat or other
+3,28,400.0,penthouse,67.0,True,2,2,55041,5.970149253731344,False,True,False,False,False,2.0,Other,flat or other
+6,11,590.0,flat,70.0,True,3,2,56596,8.428571428571429,False,False,False,False,False,unknown,Other,flat or other
+7,17,684.0,studio,45.0,True,0,1,10656,15.2,True,True,True,False,False,unknown,Madrid,studio
+8,19,600.0,flat,73.0,True,2,1,37062,8.219178082191782,False,False,False,False,False,3.0,Other,flat or other
+9,15,600.0,duplex,71.0,True,1,1,44126,8.450704225352112,False,False,False,False,False,1.0,Other,flat or other
+11,17,550.0,flat,53.0,True,1,1,4008,10.37735849056604,False,False,False,False,False,1.0,Madrid,flat or other
+12,19,700.0,studio,28.0,True,0,1,5569,25.0,True,False,False,False,False,1.0,Madrid,studio
+13,26,700.0,duplex,86.0,True,2,1,31153,8.13953488372093,False,False,False,True,False,3.0,Other,flat or other
+14,18,700.0,flat,45.0,False,1,1,2046,15.555555555555555,False,False,False,False,False,4 or more,Madrid,flat or other
+15,14,550.0,flat,54.0,True,2,1,26233,10.185185185185183,False,False,False,False,False,1,Other,flat or other
+16,11,695.0,flat,64.0,True,2,1,15747,10.859375,False,False,False,False,False,1.0,Other,flat or other
+17,5,650.0,flat,68.0,True,2,1,42410,9.558823529411764,False,False,False,False,False,0.0,Other,flat or other
+19,22,700.0,flat,30.0,False,1,1,3247,23.33333333333333,False,False,False,True,False,1.0,Madrid,flat or other
+20,16,700.0,flat,35.0,False,1,1,1894,20.0,False,False,False,False,False,1.0,Madrid,flat or other
+21,15,700.0,flat,43.0,True,1,1,4442,16.27906976744186,False,False,True,True,False,2.0,Madrid,flat or other
+22,7,650.0,flat,60.0,True,2,1,3985,10.833333333333334,False,False,False,False,False,1.0,Madrid,flat or other
+24,12,700.0,flat,105.0,True,3,2,44003,6.666666666666667,False,False,False,False,False,0.0,Other,flat or other
+25,9,695.0,flat,40.0,False,1,1,2271,17.375,True,False,False,True,False,4 or more,Madrid,flat or other
+26,13,675.0,flat,40.0,True,1,1,23556,16.875,False,False,False,False,True,0.0,Other,flat or other
+29,30,750.0,studio,45.0,False,0,1,1027,16.666666666666668,False,False,True,True,False,0.0,Madrid,studio
+30,20,750.0,flat,99.0,True,3,2,43492,7.575757575757576,False,False,False,True,False,1.0,Other,flat or other
+31,29,680.0,flat,38.0,False,1,1,2591,17.894736842105264,False,False,False,True,False,1.0,Madrid,flat or other
+32,24,750.0,flat,51.0,True,1,1,11896,14.705882352941176,False,False,False,True,True,1.0,Madrid,flat or other
+33,12,750.0,penthouse,60.0,True,1,1,21316,12.5,False,False,False,False,False,2.0,Other,flat or other
+34,13,750.0,studio,25.0,False,0,1,533,30.0,False,False,False,True,False,4 or more,Madrid,studio
+35,7,750.0,flat,40.0,False,1,1,1989,18.75,False,False,False,False,False,1.0,Madrid,flat or other
+38,13,650.0,flat,62.0,True,2,1,7841,10.483870967741936,True,False,False,False,False,1.0,Madrid,flat or other
+39,15,750.0,studio,30.0,True,0,1,935,25.0,False,False,True,False,False,3.0,Madrid,studio
+40,24,750.0,flat,39.0,False,1,1,2036,19.23076923076923,True,False,False,False,False,4 or more,Madrid,flat or other
+41,21,700.0,flat,62.0,True,2,1,8492,11.290322580645162,True,True,True,False,False,3.0,Madrid,flat or other
+42,17,747.0,flat,96.0,True,3,2,26611,7.78125,True,False,False,True,True,1.0,Other,flat or other
+44,16,640.0,studio,35.0,True,0,1,7324,18.285714285714285,False,False,False,True,True,1.0,Madrid,studio
+46,20,750.0,flat,30.0,False,1,1,2133,25.0,False,False,False,True,False,0.0,Madrid,flat or other
+47,20,750.0,flat,70.0,True,2,1,28703,10.714285714285714,False,False,False,True,True,2.0,Other,flat or other
+48,12,625.0,flat,52.0,True,2,1,40445,12.01923076923077,False,False,False,False,False,2.0,Other,flat or other
+49,9,700.0,studio,40.0,True,0,1,1431,17.5,False,False,False,True,False,3.0,Madrid,studio
+50,28,750.0,studio,40.0,True,0,1,2417,18.75,False,False,False,True,False,1,Madrid,studio
+51,18,650.0,flat,35.0,False,1,1,1121,18.571428571428573,False,False,True,True,False,2.0,Madrid,flat or other
+52,24,720.0,flat,70.0,True,3,1,29099,10.285714285714286,False,False,False,False,False,2.0,Other,flat or other
+54,28,699.0,flat,52.0,True,1,1,7092,13.442307692307692,False,False,False,True,False,3.0,Madrid,flat or other
+56,15,750.0,flat,65.0,True,2,1,13081,11.538461538461538,False,False,False,True,True,unknown,Other,flat or other
+57,10,695.0,flat,65.0,True,2,1,13904,10.692307692307692,False,False,False,True,False,unknown,Other,flat or other
+58,20,750.0,flat,78.0,True,2,2,19719,9.615384615384617,False,False,False,True,True,unknown,Other,flat or other
+59,18,620.0,flat,60.0,True,2,1,7981,10.333333333333334,False,False,False,False,False,unknown,Madrid,flat or other
+60,13,500.0,studio,28.0,False,0,1,769,17.857142857142858,False,False,False,False,False,1.0,Madrid,studio
+61,8,550.0,flat,38.0,True,1,1,10938,14.473684210526317,False,False,False,False,False,unknown,Other,flat or other
+62,23,750.0,flat,46.0,False,1,1,1476,16.304347826086957,False,False,True,True,False,3.0,Madrid,flat or other
+63,20,680.0,studio,55.0,True,0,1,5097,12.363636363636363,False,False,False,False,False,0.0,Madrid,studio
+66,22,700.0,flat,50.0,True,1,2,32052,14.0,True,True,True,False,False,unknown,Other,flat or other
+67,13,750.0,duplex,35.0,True,1,1,4047,21.428571428571427,True,True,True,False,False,unknown,Madrid,flat or other
+68,28,750.0,flat,66.0,True,2,1,13311,11.363636363636363,False,False,True,True,False,1.0,Other,flat or other
+69,11,650.0,flat,65.0,True,1,1,29440,10.0,False,False,False,True,False,1,Other,flat or other
+70,39,720.0,flat,133.0,False,3,2,19453,5.413533834586466,True,True,False,True,True,1.0,Other,flat or other
+72,28,600.0,flat,50.0,True,1,1,24430,12.0,False,False,False,True,True,unknown,Other,flat or other
+73,13,650.0,flat,61.0,True,1,1,34886,10.655737704918034,False,False,False,True,True,2.0,Other,flat or other
+74,11,650.0,flat,65.0,False,2,1,11537,10.0,False,False,False,False,False,3.0,Other,flat or other
+75,6,700.0,flat,45.0,True,1,1,12321,15.555555555555555,False,False,False,False,False,3.0,Madrid,flat or other
+76,18,625.0,flat,62.0,True,2,1,11666,10.080645161290322,False,False,False,False,False,0.0,Other,flat or other
+77,12,595.0,flat,45.0,True,1,1,4543,13.22222222222222,False,False,False,False,False,0.0,Madrid,flat or other
+78,20,650.0,flat,55.0,True,1,1,10495,11.818181818181818,False,False,False,True,True,4 or more,Madrid,flat or other
+79,27,725.0,flat,50.0,True,1,1,7708,14.5,True,False,True,True,False,2.0,Madrid,flat or other
+80,13,750.0,flat,95.0,True,3,1,28483,7.894736842105263,False,False,False,True,False,4 or more,Other,flat or other
+81,20,700.0,penthouse,30.0,True,1,1,12049,23.33333333333333,False,True,False,True,False,1.0,Madrid,flat or other
+82,25,700.0,flat,27.0,False,1,1,1391,25.925925925925927,False,False,False,False,False,3.0,Madrid,flat or other
+83,17,650.0,flat,59.0,True,2,1,30562,11.016949152542374,False,False,False,True,False,1.0,Other,flat or other
+84,9,550.0,flat,40.0,True,1,1,17750,13.75,False,False,False,True,False,3.0,Other,flat or other
+86,20,750.0,flat,65.0,True,2,1,5580,11.538461538461538,False,False,False,True,False,unknown,Madrid,flat or other
+87,17,725.0,flat,70.0,True,2,1,4117,10.357142857142858,False,False,False,True,False,unknown,Madrid,flat or other
+88,9,700.0,flat,80.0,True,1,1,29460,8.75,False,False,False,False,False,1.0,Other,flat or other
+89,7,650.0,flat,40.0,True,1,1,12224,16.25,False,False,False,True,False,0.0,Madrid,flat or other
+90,24,695.0,flat,90.0,True,3,1,7729,7.722222222222222,False,False,False,False,False,unknown,Madrid,flat or other
+91,13,750.0,flat,55.0,True,1,1,6017,13.636363636363637,False,False,False,False,False,unknown,Madrid,flat or other
+92,18,650.0,flat,65.0,True,2,1,7559,10.0,False,False,False,True,False,unknown,Madrid,flat or other
+93,13,666.0,flat,70.0,True,1,2,24862,9.514285714285714,False,False,False,True,True,1.0,Other,flat or other
+94,10,750.0,flat,78.0,True,2,2,29976,9.615384615384617,False,False,False,True,True,unknown,Other,flat or other
+95,16,630.0,flat,74.0,True,3,1,36483,8.513513513513514,False,False,False,True,False,unknown,Other,flat or other
+96,18,635.0,studio,55.0,True,0,1,14528,11.545454545454543,False,False,False,True,True,2.0,Other,studio
+97,5,725.0,flat,69.0,True,2,1,35892,10.507246376811594,False,False,True,True,True,1.0,Other,flat or other
+99,16,750.0,flat,35.0,False,1,1,859,21.428571428571427,True,False,False,False,False,1.0,Madrid,flat or other
+100,10,690.0,flat,65.0,True,2,1,4724,10.615384615384617,False,False,False,False,False,3.0,Madrid,flat or other
+101,19,700.0,studio,30.0,False,0,1,1041,23.33333333333333,False,False,False,True,False,2.0,Madrid,studio
+102,33,730.0,flat,64.0,True,3,1,20235,11.40625,True,True,True,False,False,1.0,Other,flat or other
+103,19,750.0,flat,51.0,True,1,1,3436,14.705882352941176,False,False,False,True,False,1.0,Madrid,flat or other
+104,16,750.0,flat,48.0,False,1,1,20526,15.625,False,False,False,True,False,4 or more,Other,flat or other
+105,13,690.0,flat,35.0,True,1,1,4802,19.714285714285715,False,False,False,False,False,unknown,Madrid,flat or other
+107,13,750.0,flat,74.0,True,3,1,13017,10.135135135135137,False,False,False,True,False,4 or more,Other,flat or other
+109,16,700.0,duplex,35.0,True,1,1,852,20.0,False,False,False,False,False,0.0,Madrid,flat or other
+112,11,720.0,flat,42.0,True,1,1,8333,17.142857142857142,True,False,False,True,False,4 or more,Madrid,flat or other
+113,22,595.0,flat,55.0,True,1,1,29699,10.818181818181818,True,False,False,False,True,1.0,Other,flat or other
+114,14,700.0,flat,45.0,False,1,1,1113,15.555555555555555,False,False,False,False,False,1.0,Madrid,flat or other
+116,6,500.0,flat,45.0,True,1,1,32188,11.11111111111111,False,False,False,False,False,unknown,Other,flat or other
+119,6,700.0,flat,75.0,True,2,1,43915,9.333333333333334,True,False,True,False,False,1.0,Other,flat or other
+121,8,675.0,duplex,87.0,True,2,2,44503,7.758620689655173,False,False,False,False,False,2.0,Other,flat or other
+122,10,650.0,flat,45.0,True,1,1,37741,14.444444444444445,False,False,False,False,True,0.0,Other,flat or other
+123,4,750.0,studio,55.0,True,0,1,918,13.636363636363637,True,False,False,True,False,2.0,Madrid,studio
+124,17,720.0,studio,45.0,True,0,1,15433,16.0,True,True,True,True,False,4 or more,Other,studio
+125,22,624.0,flat,45.0,True,1,1,24077,13.866666666666667,True,False,True,True,True,unknown,Other,flat or other
+126,22,633.0,flat,45.0,True,1,1,24077,14.066666666666666,True,False,True,True,True,unknown,Other,flat or other
+127,22,640.0,studio,33.0,True,0,1,11189,19.393939393939394,True,False,False,True,False,2.0,Madrid,studio
+128,14,645.0,flat,84.0,True,2,2,43827,7.678571428571429,False,True,False,True,False,2.0,Other,flat or other
+129,12,750.0,flat,46.0,False,1,1,1069,16.304347826086957,True,True,False,False,False,3.0,Madrid,flat or other
+130,16,735.0,studio,35.0,True,0,1,11088,21.0,True,True,False,True,True,1.0,Madrid,studio
+131,22,600.0,flat,55.0,True,1,1,25189,10.909090909090908,True,True,True,False,False,unknown,Other,flat or other
+132,28,750.0,flat,75.0,True,3,1,8286,10.0,False,False,False,False,False,unknown,Madrid,flat or other
+133,1,600.0,penthouse,25.0,True,1,1,183,24.0,True,True,False,True,False,4 or more,Madrid,flat or other
+134,30,705.0,flat,48.0,True,1,1,11472,14.6875,True,False,False,True,True,4 or more,Madrid,flat or other
+136,35,650.0,flat,62.0,True,2,1,43229,10.483870967741936,True,False,True,False,False,3.0,Other,flat or other
+138,29,700.0,duplex,61.0,True,2,1,23917,11.475409836065571,False,False,False,False,False,1.0,Other,flat or other
+139,14,650.0,studio,40.0,False,0,1,5088,16.25,False,False,False,True,False,1,Madrid,studio
+140,16,700.0,flat,40.0,True,1,1,3076,17.5,False,False,False,False,True,0.0,Madrid,flat or other
+141,30,730.0,flat,51.0,True,2,1,6767,14.31372549019608,True,True,True,False,False,4 or more,Madrid,flat or other
+142,35,750.0,flat,50.0,True,2,1,8331,15.0,True,True,True,False,False,3.0,Madrid,flat or other
+143,29,680.0,flat,56.0,True,2,1,19298,12.142857142857142,True,True,True,False,False,3.0,Other,flat or other
+144,29,710.0,flat,78.0,True,3,1,21617,9.102564102564102,True,True,True,False,False,4 or more,Other,flat or other
+145,29,720.0,flat,47.0,True,2,1,7088,15.319148936170214,True,True,True,False,False,1.0,Madrid,flat or other
+146,12,750.0,studio,43.0,True,0,1,5332,17.441860465116278,False,False,False,True,False,unknown,Madrid,studio
+148,12,695.0,studio,40.0,True,0,1,12376,17.375,False,False,False,True,True,unknown,Madrid,studio
+150,42,750.0,flat,90.0,True,3,1,26401,8.333333333333334,False,False,False,True,False,unknown,Other,flat or other
+151,1,730.0,flat,50.0,True,1,1,8717,14.6,False,False,False,True,True,2.0,Madrid,flat or other
+152,24,600.0,flat,90.0,True,3,1,25182,6.666666666666667,False,False,False,True,False,unknown,Other,flat or other
+153,17,650.0,studio,45.0,True,0,1,5656,14.444444444444445,False,False,False,True,False,0.0,Madrid,studio
+154,20,750.0,flat,38.0,False,1,1,470,19.73684210526316,False,False,True,True,False,0.0,Madrid,flat or other
+156,21,730.0,flat,50.0,True,1,1,16410,14.6,False,False,False,True,True,unknown,Other,flat or other
+159,0,735.0,studio,30.0,True,0,1,11188,24.5,False,True,False,True,True,2.0,Madrid,studio
+160,29,610.0,flat,72.0,False,1,1,19544,8.472222222222221,True,True,True,True,True,0.0,Other,flat or other
+163,16,725.0,flat,50.0,True,1,1,23787,14.5,True,False,False,False,False,1,Other,flat or other
+164,22,750.0,flat,48.0,True,1,1,5085,15.625,True,False,True,False,False,1.0,Madrid,flat or other
+165,24,750.0,flat,70.0,True,3,1,29660,10.714285714285714,True,False,True,False,False,2.0,Other,flat or other
+166,16,750.0,flat,49.0,True,1,1,8465,15.306122448979592,True,False,True,True,False,4 or more,Madrid,flat or other
+167,28,730.0,flat,60.0,True,3,1,20948,12.166666666666666,True,True,True,False,False,3.0,Other,flat or other
+168,32,560.0,flat,26.0,False,1,1,625,21.53846153846154,True,True,True,False,False,0.0,Madrid,flat or other
+169,20,700.0,studio,23.0,True,0,1,1271,30.43478260869565,True,True,True,False,False,unknown,Madrid,studio
+170,30,750.0,flat,80.0,True,3,1,14991,9.375,False,False,False,True,True,2.0,Other,flat or other
+171,31,730.0,flat,70.0,True,3,1,18781,10.428571428571429,True,True,True,False,False,3.0,Other,flat or other
+172,29,730.0,flat,52.0,True,2,1,8827,14.038461538461538,True,True,True,False,False,4 or more,Madrid,flat or other
+173,27,740.0,flat,64.0,True,2,1,8365,11.5625,True,True,True,False,False,3.0,Madrid,flat or other
+174,37,720.0,flat,65.0,True,2,1,7511,11.076923076923077,True,True,True,False,False,2.0,Madrid,flat or other
+175,32,720.0,flat,63.0,True,2,1,19731,11.428571428571429,True,True,True,False,False,2.0,Other,flat or other
+176,33,740.0,flat,54.0,True,2,1,6636,13.703703703703704,True,True,True,True,False,1.0,Madrid,flat or other
+177,30,720.0,flat,52.0,True,2,1,12695,13.846153846153848,True,True,True,False,False,3.0,Other,flat or other
+178,43,730.0,flat,45.0,True,2,1,4385,16.22222222222222,True,True,True,False,False,3.0,Madrid,flat or other
+179,7,600.0,duplex,80.0,False,1,1,7223,7.5,True,True,True,False,False,unknown,Madrid,flat or other
+181,20,725.0,duplex,71.0,True,2,1,23158,10.211267605633802,False,False,False,False,True,1.0,Other,flat or other
+182,31,675.0,flat,76.0,True,3,1,43485,8.881578947368421,True,True,True,False,True,2.0,Other,flat or other
+183,21,750.0,flat,54.0,True,1,1,15834,13.88888888888889,False,False,False,True,True,3.0,Other,flat or other
+184,20,750.0,duplex,79.0,True,2,2,34697,9.49367088607595,False,False,False,False,False,1.0,Other,flat or other
+185,33,700.0,flat,54.0,True,1,1,3354,12.962962962962964,False,False,False,True,False,2.0,Madrid,flat or other
+186,33,750.0,flat,54.0,True,2,1,8322,13.88888888888889,True,True,True,False,False,3.0,Madrid,flat or other
+187,31,730.0,flat,48.0,True,2,1,6997,15.208333333333334,True,True,True,False,False,3.0,Madrid,flat or other
+188,39,650.0,flat,61.0,True,2,1,28605,10.655737704918034,True,True,True,False,False,4 or more,Other,flat or other
+189,34,730.0,flat,63.0,True,2,1,7893,11.587301587301589,True,True,True,False,False,1.0,Madrid,flat or other
+190,33,720.0,flat,50.0,True,2,1,7041,14.4,True,True,True,False,False,2.0,Madrid,flat or other
+191,31,720.0,flat,51.0,True,2,1,6973,14.117647058823527,True,True,True,False,False,1.0,Madrid,flat or other
+192,30,750.0,flat,47.0,True,2,1,4538,15.95744680851064,True,True,True,False,False,1.0,Madrid,flat or other
+193,30,730.0,flat,50.0,True,2,1,7411,14.6,True,True,True,False,False,3.0,Madrid,flat or other
+194,23,730.0,flat,40.0,True,2,1,4201,18.25,True,True,True,False,False,2.0,Madrid,flat or other
+195,32,670.0,flat,67.0,True,2,1,25100,10.0,True,True,True,True,False,1.0,Other,flat or other
+196,31,740.0,flat,52.0,True,2,1,4862,14.23076923076923,True,True,True,False,False,3.0,Madrid,flat or other
+197,30,720.0,flat,69.0,True,2,1,29084,10.434782608695652,True,True,True,True,False,1.0,Other,flat or other
+198,30,750.0,flat,59.0,True,2,1,8400,12.71186440677966,True,True,True,False,False,4 or more,Madrid,flat or other
+199,33,740.0,flat,45.0,True,2,1,7720,16.444444444444443,True,True,True,False,False,3.0,Madrid,flat or other
+200,31,740.0,flat,60.0,True,2,1,6670,12.333333333333334,True,True,True,True,False,1.0,Madrid,flat or other
+201,10,730.0,studio,45.0,False,0,1,854,16.22222222222222,False,False,False,True,False,unknown,Madrid,studio
+202,13,620.0,flat,75.0,True,3,1,21044,8.266666666666667,False,False,False,True,False,unknown,Other,flat or other
+203,16,695.0,flat,67.0,True,2,1,16111,10.373134328358208,False,False,False,False,False,unknown,Other,flat or other
+204,17,650.0,flat,95.0,True,3,1,29884,6.842105263157895,False,False,False,True,False,unknown,Other,flat or other
+205,11,675.0,flat,68.0,True,2,1,30461,9.926470588235292,False,False,False,True,False,unknown,Other,flat or other
+206,20,695.0,flat,65.0,True,2,1,8484,10.692307692307692,False,False,False,False,False,unknown,Madrid,flat or other
+207,12,750.0,flat,111.0,True,2,2,20583,6.756756756756757,False,False,False,True,False,4 or more,Other,flat or other
+208,16,675.0,flat,35.0,False,1,1,1016,19.285714285714285,True,True,True,False,False,unknown,Madrid,flat or other
+210,21,690.0,flat,85.0,True,2,1,20804,8.117647058823529,False,False,False,True,False,unknown,Other,flat or other
+211,14,750.0,flat,45.0,False,1,1,5089,16.666666666666668,True,False,False,False,False,0.0,Madrid,flat or other
+213,21,600.0,studio,32.0,True,0,1,6325,18.75,False,False,False,True,False,1.0,Madrid,studio
+215,28,723.0,studio,25.0,True,0,1,16775,28.92,True,False,True,True,True,unknown,Other,studio
+220,29,725.0,flat,50.0,True,1,1,10503,14.5,True,False,False,True,True,1.0,Madrid,flat or other
+221,16,750.0,flat,67.0,True,3,1,11657,11.194029850746269,True,True,True,False,False,unknown,Other,flat or other
+222,16,600.0,flat,45.0,True,2,1,41003,13.333333333333334,True,True,True,False,False,unknown,Other,flat or other
+223,42,750.0,flat,70.0,True,3,1,14642,10.714285714285714,False,False,False,False,False,2.0,Other,flat or other
+224,6,450.0,penthouse,60.0,True,1,1,53238,7.5,False,False,False,False,False,unknown,Other,flat or other
+226,27,720.0,flat,54.0,True,1,1,3296,13.333333333333334,True,True,True,False,False,0.0,Madrid,flat or other
+227,8,550.0,penthouse,75.0,True,2,2,53247,7.333333333333333,False,False,False,False,False,unknown,Other,flat or other
+228,30,720.0,flat,49.0,False,3,1,8411,14.693877551020408,True,True,True,False,False,3.0,Madrid,flat or other
+229,38,740.0,flat,65.0,True,3,1,8443,11.384615384615383,False,False,False,True,False,1.0,Madrid,flat or other
+230,72,660.0,flat,155.0,False,3,2,41119,4.258064516129032,True,True,True,False,False,unknown,Other,flat or other
+231,26,720.0,flat,56.0,False,2,1,6691,12.857142857142858,True,True,True,False,False,4 or more,Madrid,flat or other
+232,22,650.0,flat,31.0,False,1,1,1207,20.967741935483872,False,False,False,False,False,3.0,Madrid,flat or other
+233,28,650.0,flat,96.0,True,2,1,43953,6.770833333333333,True,True,True,False,False,3.0,Other,flat or other
+234,29,660.0,flat,168.0,False,3,2,41221,3.928571428571429,True,True,True,True,True,3.0,Other,flat or other
+235,19,690.0,flat,64.0,True,2,1,30634,10.78125,False,False,False,False,False,0.0,Other,flat or other
+236,24,750.0,studio,25.0,True,0,1,3177,30.0,True,False,False,True,False,4 or more,Madrid,studio
+238,29,725.0,flat,45.0,True,1,1,10508,16.11111111111111,True,False,False,True,True,2.0,Madrid,flat or other
+239,31,620.0,flat,85.0,False,1,1,19767,7.294117647058823,True,True,True,True,True,0.0,Other,flat or other
+240,25,590.0,flat,52.0,True,1,1,44526,11.346153846153848,False,False,False,False,False,0.0,Other,flat or other
+241,15,750.0,penthouse,80.0,True,0,1,20818,9.375,False,False,False,True,True,1.0,Other,flat or other
+242,24,720.0,studio,36.0,True,0,1,5975,20.0,False,True,False,True,True,2.0,Madrid,studio
+243,16,700.0,flat,82.0,True,2,1,42463,8.536585365853659,False,False,False,False,False,3.0,Other,flat or other
+245,19,692.0,flat,83.0,True,2,2,20294,8.337349397590362,True,False,False,True,True,unknown,Other,flat or other
+247,14,609.0,flat,56.0,True,1,1,30186,10.875,True,False,False,True,False,0.0,Other,flat or other
+251,11,750.0,flat,36.0,False,2,1,3620,20.83333333333333,False,False,False,True,False,2.0,Madrid,flat or other
+258,16,650.0,studio,28.0,True,0,1,4920,23.214285714285715,False,True,False,False,False,0.0,Madrid,studio
+259,23,750.0,flat,60.0,False,2,1,29663,12.5,False,False,True,False,False,1.0,Other,flat or other
+260,30,735.0,flat,60.0,True,3,1,20886,12.25,True,True,True,False,False,4 or more,Other,flat or other
+261,24,699.0,penthouse,78.0,True,2,1,27684,8.961538461538462,False,False,False,False,False,2.0,Other,flat or other
+262,28,725.0,flat,67.0,True,3,1,17191,10.82089552238806,True,True,True,False,False,4 or more,Other,flat or other
+263,21,740.0,flat,77.0,True,3,2,28385,9.61038961038961,True,True,True,True,False,0.0,Other,flat or other
+265,20,720.0,flat,73.0,True,1,1,34761,9.863013698630136,True,False,False,True,False,2.0,Other,flat or other
+266,21,750.0,flat,79.0,True,3,1,11728,9.49367088607595,False,False,False,True,False,1,Other,flat or other
+268,30,710.0,flat,66.0,True,3,1,20588,10.757575757575758,True,True,True,False,False,4 or more,Other,flat or other
+269,42,725.0,flat,62.0,True,2,1,7748,11.693548387096774,False,True,True,False,False,3.0,Madrid,flat or other
+270,22,750.0,flat,46.0,False,1,1,5680,16.304347826086957,False,False,False,False,False,0.0,Madrid,flat or other
+271,32,750.0,flat,61.0,True,2,1,3161,12.295081967213116,False,False,False,True,False,1.0,Madrid,flat or other
+272,28,730.0,flat,161.0,True,3,1,44159,4.53416149068323,True,True,True,False,False,3.0,Other,flat or other
+274,25,720.0,flat,110.0,False,2,1,21417,6.545454545454546,True,True,True,True,True,unknown,Other,flat or other
+275,28,720.0,flat,48.0,False,2,1,3551,15.0,True,True,True,False,False,0.0,Madrid,flat or other
+276,33,700.0,flat,57.0,False,2,1,8410,12.280701754385966,True,True,True,False,False,4 or more,Madrid,flat or other
+277,19,750.0,duplex,75.0,True,2,2,24176,10.0,False,False,False,False,False,1.0,Other,flat or other
+278,26,610.0,studio,26.0,False,0,1,5343,23.46153846153846,True,True,True,True,False,3.0,Madrid,studio
+279,25,740.0,flat,52.0,False,2,1,17525,14.23076923076923,True,True,True,False,False,4 or more,Other,flat or other
+280,33,715.0,flat,62.0,True,2,1,26558,11.53225806451613,False,True,False,True,True,0.0,Other,flat or other
+281,28,550.0,flat,57.0,False,2,1,43521,9.649122807017545,True,True,True,False,False,0.0,Other,flat or other
+282,45,710.0,flat,36.0,True,1,1,1315,19.72222222222222,True,True,True,False,False,0.0,Madrid,flat or other
+283,26,730.0,flat,51.0,True,2,1,8093,14.31372549019608,True,True,True,False,False,2.0,Madrid,flat or other
+284,21,750.0,studio,23.0,True,0,1,1367,32.608695652173914,False,False,True,True,False,4 or more,Madrid,studio
+285,27,690.0,flat,33.0,False,1,1,5232,20.90909090909091,True,True,True,True,False,3.0,Madrid,flat or other
+286,32,740.0,flat,73.0,True,3,1,21838,10.136986301369864,True,True,True,True,False,4 or more,Other,flat or other
+287,38,750.0,duplex,66.0,True,1,1,5627,11.363636363636363,True,True,True,True,False,0.0,Madrid,flat or other
+288,29,720.0,flat,44.0,False,3,1,8176,16.363636363636363,True,True,True,False,False,2.0,Madrid,flat or other
+289,27,475.0,flat,79.0,True,2,2,45077,6.012658227848101,False,False,False,True,False,2.0,Other,flat or other
+290,26,740.0,flat,41.0,True,2,1,4787,18.04878048780488,True,True,True,False,False,2.0,Madrid,flat or other
+291,31,740.0,flat,57.0,True,1,1,3642,12.982456140350877,True,True,True,True,False,1.0,Madrid,flat or other
+293,47,700.0,flat,74.0,False,2,1,9950,9.45945945945946,True,True,True,False,False,4 or more,Other,flat or other
+294,22,730.0,flat,35.0,False,1,1,760,20.857142857142858,False,False,False,True,False,2.0,Madrid,flat or other
+295,25,700.0,studio,28.0,True,0,1,9700,25.0,False,False,False,True,False,3.0,Madrid,studio
+299,23,750.0,flat,109.0,True,2,2,24455,6.8807339449541285,False,False,False,True,True,3.0,Other,flat or other
+303,16,749.0,flat,38.0,True,1,1,6506,19.71052631578948,False,True,False,True,True,2.0,Madrid,flat or other
+304,7,700.0,studio,30.0,False,0,1,2411,23.33333333333333,False,False,False,True,False,0.0,Madrid,studio
+305,15,667.0,flat,70.0,True,1,1,21185,9.528571428571428,False,False,False,True,True,4 or more,Other,flat or other
+306,22,725.0,flat,45.0,False,1,1,10398,16.11111111111111,False,False,False,True,True,1.0,Madrid,flat or other
+307,21,550.0,penthouse,70.0,True,3,1,47595,7.857142857142857,False,False,False,False,True,3.0,Other,flat or other
+308,29,695.0,flat,55.0,True,3,1,19765,12.636363636363637,True,True,True,False,False,4 or more,Other,flat or other
+310,35,750.0,flat,105.0,True,3,1,28810,7.142857142857143,False,False,False,False,False,1.0,Other,flat or other
+311,24,699.0,flat,52.0,True,1,1,7092,13.442307692307692,False,False,False,True,True,3.0,Madrid,flat or other
+312,18,750.0,studio,32.0,True,0,1,5006,23.4375,False,False,True,True,False,4 or more,Madrid,studio
+313,14,730.0,flat,80.0,True,3,1,35774,9.125,False,False,False,False,False,4 or more,Other,flat or other
+315,27,710.0,flat,30.0,True,1,1,1156,23.666666666666668,True,True,True,False,False,0.0,Madrid,flat or other
+316,20,650.0,flat,58.0,True,1,1,5924,11.20689655172414,False,False,False,True,False,4 or more,Madrid,flat or other
+318,28,740.0,flat,41.0,True,2,1,8358,18.04878048780488,True,True,True,False,False,3.0,Madrid,flat or other
+319,25,525.0,flat,40.0,True,1,1,43059,13.125,True,True,True,True,False,3.0,Other,flat or other
+320,11,750.0,studio,35.0,True,0,1,1272,21.428571428571427,False,False,False,False,False,4 or more,Madrid,studio
+321,28,750.0,flat,74.0,True,3,1,29245,10.135135135135137,True,True,True,True,False,2.0,Other,flat or other
+323,25,710.0,flat,69.0,True,3,1,28440,10.289855072463768,True,True,True,True,False,4 or more,Other,flat or other
+324,27,560.0,studio,46.0,True,0,1,3786,12.173913043478262,True,True,True,False,False,0.0,Madrid,studio
+326,25,600.0,flat,42.0,True,1,1,18905,14.285714285714286,False,False,False,False,False,0.0,Other,flat or other
+330,17,720.0,flat,44.0,True,1,1,3589,16.363636363636363,True,False,False,False,False,0.0,Madrid,flat or other
+331,12,750.0,flat,60.0,True,2,1,2591,12.5,False,False,False,False,False,unknown,Madrid,flat or other
+332,5,750.0,flat,42.0,False,1,1,2762,17.857142857142858,False,False,False,True,False,4 or more,Madrid,flat or other
+333,15,750.0,studio,90.0,True,0,1,7228,8.333333333333334,False,False,False,True,False,4 or more,Madrid,studio
+334,16,650.0,studio,45.0,False,0,1,3807,14.444444444444445,True,False,True,True,False,0.0,Madrid,studio
+335,21,650.0,flat,59.0,True,1,1,20637,11.016949152542374,False,False,True,True,False,2.0,Other,flat or other
+336,61,670.0,flat,75.0,True,2,1,27056,8.933333333333334,False,False,False,True,True,3.0,Other,flat or other
+338,16,650.0,flat,45.0,True,1,1,12383,14.444444444444445,True,False,False,True,False,2.0,Other,flat or other
+340,7,750.0,flat,32.0,True,1,1,5339,23.4375,False,False,False,True,False,2.0,Madrid,flat or other
+341,19,725.0,flat,50.0,True,1,1,5564,14.5,True,True,True,False,False,unknown,Madrid,flat or other
+342,17,620.0,studio,20.0,False,0,1,1893,31.0,False,False,False,True,False,1.0,Madrid,studio
+345,17,680.0,flat,35.0,True,1,1,3308,19.428571428571427,False,False,False,False,False,0.0,Madrid,flat or other
+346,7,750.0,flat,87.0,True,3,1,12519,8.620689655172415,False,False,False,True,False,0.0,Other,flat or other
+351,28,600.0,flat,75.0,True,3,1,28756,8.0,True,True,True,False,False,unknown,Other,flat or other
+352,11,750.0,flat,70.0,True,2,1,12614,10.714285714285714,False,False,False,False,False,4 or more,Other,flat or other
+354,15,700.0,flat,36.0,True,2,1,9525,19.444444444444443,False,False,False,False,False,3.0,Other,flat or other
+355,13,695.0,flat,58.0,False,1,1,5659,11.982758620689657,True,True,True,True,False,1.0,Madrid,flat or other
+356,28,710.0,flat,66.0,True,1,1,25013,10.757575757575758,False,False,False,True,True,2.0,Other,flat or other
+358,23,620.0,flat,80.0,True,2,1,49280,7.75,False,False,False,False,True,2.0,Other,flat or other
+361,22,700.0,flat,80.0,True,3,1,40907,8.75,False,False,False,False,True,1.0,Other,flat or other
+362,47,715.0,flat,89.0,True,3,1,39316,8.03370786516854,False,False,False,False,False,0.0,Other,flat or other
+364,21,750.0,flat,50.0,True,1,1,11203,15.0,False,False,False,True,True,1.0,Madrid,flat or other
+365,11,750.0,flat,45.0,True,1,1,8426,16.666666666666668,True,False,False,True,True,2.0,Madrid,flat or other
+368,20,550.0,studio,25.0,False,0,1,4650,22.0,False,False,False,False,False,0.0,Madrid,studio
+370,22,730.0,flat,60.0,True,1,1,27803,12.166666666666666,False,False,False,False,False,unknown,Other,flat or other
+372,28,750.0,penthouse,46.0,True,2,1,3889,16.304347826086957,False,False,False,True,False,4 or more,Madrid,flat or other
+374,16,700.0,flat,45.0,True,1,1,13887,15.555555555555555,False,False,False,False,False,0.0,Other,flat or other
+375,15,680.0,flat,85.0,True,2,1,13303,8.0,False,False,False,True,False,0.0,Other,flat or other
+377,19,600.0,flat,28.0,False,1,1,4418,21.428571428571427,False,False,True,False,False,4 or more,Madrid,flat or other
+382,21,750.0,flat,80.0,True,2,1,30995,9.375,False,False,False,False,True,1.0,Other,flat or other
+383,4,700.0,flat,62.0,True,1,1,13040,11.290322580645162,False,False,False,True,False,2.0,Other,flat or other
+384,18,690.0,flat,77.0,True,2,1,7283,8.96103896103896,False,False,False,True,True,0.0,Madrid,flat or other
+385,15,700.0,flat,50.0,True,1,1,7844,14.0,False,False,False,False,False,0.0,Madrid,flat or other
+386,13,750.0,flat,87.0,True,2,1,13773,8.620689655172415,False,False,False,True,False,4 or more,Other,flat or other
+388,15,735.0,flat,51.0,True,1,1,14023,14.411764705882351,False,False,False,True,True,4 or more,Other,flat or other
+389,15,700.0,flat,80.0,True,3,1,17777,8.75,False,False,False,True,False,4 or more,Other,flat or other
+390,17,725.0,flat,75.0,True,3,1,16247,9.666666666666666,False,False,False,False,False,unknown,Other,flat or other
+392,20,733.0,flat,68.4,True,2,1,28541,10.716374269005849,False,False,False,True,True,2.0,Other,flat or other
+393,19,750.0,flat,36.0,True,1,1,4237,20.83333333333333,False,False,True,True,False,0.0,Madrid,flat or other
+394,20,675.0,flat,69.0,True,2,1,5656,9.782608695652174,False,False,False,False,False,0.0,Madrid,flat or other
+395,23,650.0,flat,85.0,True,2,1,43066,7.647058823529412,False,False,True,False,False,2.0,Other,flat or other
+396,15,730.0,flat,52.0,True,1,1,5879,14.038461538461538,False,False,True,True,False,0.0,Madrid,flat or other
+397,19,700.0,flat,97.0,True,1,1,24605,7.216494845360825,False,False,False,True,False,0.0,Other,flat or other
+399,12,690.0,studio,38.0,False,0,1,5798,18.157894736842103,True,True,True,True,True,2.0,Madrid,studio
+400,23,700.0,flat,70.0,True,2,1,43166,10.0,False,False,False,False,False,1.0,Other,flat or other
+401,24,600.0,duplex,89.0,True,2,2,44474,6.741573033707865,False,False,False,False,False,2.0,Other,flat or other
+402,18,700.0,studio,25.0,False,0,1,691,28.0,False,False,False,False,False,0.0,Madrid,studio
+403,21,690.0,flat,60.0,True,2,1,29005,11.5,False,False,False,False,False,0.0,Other,flat or other
+405,35,750.0,duplex,114.0,True,3,2,28099,6.578947368421052,False,False,False,False,False,1.0,Other,flat or other
+411,31,700.0,studio,51.0,True,0,1,8471,13.72549019607843,False,False,True,False,False,0.0,Madrid,studio
+412,32,670.0,flat,61.0,True,1,1,35136,10.98360655737705,False,False,False,True,True,0.0,Other,flat or other
+414,15,750.0,flat,80.0,True,2,1,25085,9.375,False,False,False,True,False,4 or more,Other,flat or other
+416,24,740.0,studio,33.0,True,0,1,8322,22.424242424242426,False,False,False,True,False,0.0,Madrid,studio
+417,19,750.0,flat,110.0,True,3,2,27976,6.818181818181818,False,False,False,False,False,1.0,Other,flat or other
+418,9,750.0,flat,62.0,True,2,1,5703,12.096774193548388,True,False,False,False,False,3.0,Madrid,flat or other
+419,21,750.0,studio,70.0,True,0,1,16273,10.714285714285714,False,False,True,True,True,0.0,Other,studio
+420,11,650.0,studio,28.0,True,0,1,5399,23.214285714285715,False,False,False,False,False,0.0,Madrid,studio
+421,18,625.0,flat,51.0,True,1,1,25010,12.254901960784316,False,False,True,True,True,2.0,Other,flat or other
+422,18,700.0,flat,35.0,True,1,1,2266,20.0,False,False,True,True,False,0.0,Madrid,flat or other
+424,25,750.0,flat,95.0,True,2,2,30759,7.894736842105263,False,False,False,False,False,1.0,Other,flat or other
+427,37,600.0,studio,25.0,False,0,1,3812,24.0,False,False,True,False,False,0.0,Madrid,studio
+429,25,750.0,flat,89.0,True,2,2,12878,8.426966292134832,False,False,True,True,False,2.0,Other,flat or other
+430,32,700.0,flat,55.0,True,1,1,32004,12.727272727272728,False,False,True,True,False,1.0,Other,flat or other
+431,34,750.0,flat,90.0,True,3,2,28736,8.333333333333334,False,False,False,True,True,2.0,Other,flat or other
+432,28,750.0,flat,48.0,True,2,1,6832,15.625,False,False,False,True,False,2.0,Madrid,flat or other
+433,27,625.0,flat,57.0,True,2,1,43647,10.964912280701755,False,False,False,False,False,0.0,Other,flat or other
+434,20,750.0,flat,46.0,True,1,1,16127,16.304347826086957,True,False,False,False,True,1.0,Other,flat or other
+435,7,695.0,flat,59.0,True,1,1,8595,11.779661016949152,False,False,False,True,True,4 or more,Madrid,flat or other
+436,10,450.0,flat,40.0,True,1,1,46273,11.25,False,False,True,False,False,1.0,Other,flat or other
+437,15,720.0,flat,58.0,True,2,1,13451,12.413793103448276,False,False,True,False,False,0.0,Other,flat or other
+438,20,745.0,flat,73.0,True,2,1,28800,10.205479452054794,False,False,False,True,True,2.0,Other,flat or other
+439,19,720.0,flat,69.6,True,2,1,28624,10.344827586206897,False,False,False,True,True,2.0,Other,flat or other
+440,23,750.0,flat,55.0,True,2,1,7462,13.636363636363637,False,False,False,False,False,1.0,Madrid,flat or other
+441,19,720.0,studio,48.0,True,0,1,5808,15.0,False,False,False,True,True,1.0,Madrid,studio
+442,17,725.0,studio,44.0,False,0,1,1140,16.477272727272727,False,False,False,True,False,4 or more,Madrid,studio
+443,14,750.0,flat,80.0,False,2,1,8011,9.375,False,False,False,True,True,4 or more,Madrid,flat or other
+444,14,550.0,flat,86.0,True,2,1,47448,6.395348837209302,False,False,False,True,False,1.0,Other,flat or other
+445,16,640.0,flat,69.0,True,2,1,29311,9.27536231884058,False,False,False,True,True,2.0,Other,flat or other
+446,19,700.0,flat,54.0,True,1,1,11656,12.962962962962964,True,True,True,True,False,1.0,Other,flat or other
+447,16,700.0,flat,59.0,True,1,1,7529,11.864406779661016,False,False,False,True,True,4 or more,Madrid,flat or other
+448,11,700.0,flat,75.0,True,2,1,30359,9.333333333333334,False,False,False,False,False,1.0,Other,flat or other
+449,19,695.0,flat,62.0,False,2,1,15162,11.209677419354838,False,False,False,False,False,3.0,Other,flat or other

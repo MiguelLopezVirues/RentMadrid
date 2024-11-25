@@ -1,0 +1,13 @@
+Pipeline(steps=[('transformer',
+                 ColumnTransformer(remainder='passthrough',
+                                   transformers=[('one_hot',
+                                                  OneHotEncoder(drop='first',
+                                                                sparse_output=False),
+                                                  ['p_area_property_grouped',
+                                                   'exterior', 'bathrooms',
+                                                   'hasPlan']),
+                                                 ('target', TargetEncoder(),
+                                                  ['rooms',
+                                                   'parkingSpace_included_in_listing',
+                                                   'floor_grouped'])])),
+                ('regressor', DecisionTreeRegressor())])

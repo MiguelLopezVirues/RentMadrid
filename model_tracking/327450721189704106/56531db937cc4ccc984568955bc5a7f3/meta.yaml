@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Miguel/Desktop/Hackio/Proyectos/7. Rent Madrid/notebooks/../model_tracking/327450721189704106/56531db937cc4ccc984568955bc5a7f3/artifacts
+end_time: 1732477282471
+entry_point_name: ''
+experiment_id: '327450721189704106'
+lifecycle_stage: active
+run_id: 56531db937cc4ccc984568955bc5a7f3
+run_name: GridSearch_CV_LinearRegression
+run_uuid: 56531db937cc4ccc984568955bc5a7f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732477274630
+status: 4
+tags: []
+user_id: Miguel

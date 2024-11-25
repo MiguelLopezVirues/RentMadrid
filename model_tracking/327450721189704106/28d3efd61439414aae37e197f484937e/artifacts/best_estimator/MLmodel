@@ -1,0 +1,28 @@
+artifact_path: best_estimator
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.0
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.18.0
+model_size_bytes: 2267
+model_uuid: 4f0c27a0823c44389611baa332a87655
+run_id: 28d3efd61439414aae37e197f484937e
+signature:
+  inputs: '[{"type": "double", "name": "reciprocal_size", "required": true}, {"type":
+    "long", "name": "distance", "required": true}, {"type": "long", "name": "bathrooms",
+    "required": true}, {"type": "long", "name": "exterior", "required": true}, {"type":
+    "long", "name": "hasPlan", "required": true}, {"type": "long", "name": "parkingSpace_included_in_listing",
+    "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-11-24 16:59:02.911390'

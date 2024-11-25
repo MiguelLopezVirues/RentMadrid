@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/Miguel/Desktop/Hackio/Proyectos/7. Rent Madrid/notebooks/../model_tracking/327450721189704106/6d20801986d9475eab2224d633cca8b4/artifacts
+deleted_time: 1732455717575
+end_time: 1732451753957
+entry_point_name: ''
+experiment_id: '327450721189704106'
+lifecycle_stage: deleted
+run_id: 6d20801986d9475eab2224d633cca8b4
+run_name: priceByArea - baseline - test_evaluation
+run_uuid: 6d20801986d9475eab2224d633cca8b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732451749182
+status: 3
+tags: []
+user_id: Miguel

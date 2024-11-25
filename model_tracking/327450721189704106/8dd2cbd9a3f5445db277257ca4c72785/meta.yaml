@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Miguel/Desktop/Hackio/Proyectos/7. Rent Madrid/notebooks/../model_tracking/327450721189704106/8dd2cbd9a3f5445db277257ca4c72785/artifacts
+end_time: 1732505975633
+entry_point_name: ''
+experiment_id: '327450721189704106'
+lifecycle_stage: active
+run_id: 8dd2cbd9a3f5445db277257ca4c72785
+run_name: Test evaluation - price | non-linear - numerical & categorical - test_evaluation
+run_uuid: 8dd2cbd9a3f5445db277257ca4c72785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732505931689
+status: 3
+tags: []
+user_id: Miguel

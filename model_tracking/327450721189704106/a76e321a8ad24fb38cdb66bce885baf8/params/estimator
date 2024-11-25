@@ -1,0 +1,6 @@
+Pipeline(steps=[('transformer',
+                 ColumnTransformer(remainder='passthrough',
+                                   transformers=[('target', TargetEncoder(),
+                                                  ['floor_grouped'])])),
+                ('scaler', RobustScaler()),
+                ('regressor', Lasso(max_iter=10000))])
